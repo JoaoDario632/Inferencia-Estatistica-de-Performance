@@ -66,7 +66,8 @@ O trabalho foi desenvolvido em Python, explorando a relação entre variáveis c
 
 ## 🧪 Reproduzindo a Análise
 
-### 1️⃣ Instalar dependências
+### 1️⃣ Para a execução do projeto, instale as seguintes dependências: 
+
 ```bash
 pip install pandas
 ```
