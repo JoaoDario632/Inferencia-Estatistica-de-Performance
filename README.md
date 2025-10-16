@@ -1,1 +1,1 @@
-# Infer-ncia-Estat-stica-de-Performance
+# Inferencia-Estatistica-de-Performance
