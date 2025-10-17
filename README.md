@@ -26,6 +26,7 @@ O trabalho foi desenvolvido em Python, explorando a relação entre variáveis c
 2. **Formulação de hipóteses**
    - **H1**: Diferença de médias de GPA entre gêneros.
    - **H2**: Correlação entre horas de estudo e GPA.
+   - **H3** Correlação positiva entre tempo semanal de estudo e GPA
 
 3. **Aplicação dos testes**
    - Testes de normalidade (Shapiro-Wilk) e homogeneidade (Levene).
