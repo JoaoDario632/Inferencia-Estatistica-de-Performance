@@ -4,7 +4,6 @@
 Este projeto aplica **conceitos de inferência estatística** — testes de hipótese e intervalos de confiança (usando métodos analíticos e bootstrap) — sobre o dataset `Student_performance_data.csv`, que contém informações sobre o desempenho de estudantes.
 
 O trabalho foi desenvolvido em Python, explorando a relação entre variáveis como **gênero**, **horas de estudo semanais** e **GPA (nota média)**.
-
 ---
 
 ## 📊 Estrutura do Projeto
@@ -93,17 +92,17 @@ Este projeto está licenciado sob a MIT License.
 <table>
   <tr>
     <td align="center">
-       <a href="https://github.com/FrrTiago">
-         <img src="https://avatars.githubusercontent.com/u/132114628?v=4" style="border-radius: 50%" width="100px;" alt="ferreira"/>
-         <br />
-         <sub><b>Tiago Ferreira 💻👑</b></sub>
-       </a>
-     </td>
-     <td align="center">
-       <a href="https://github.com/JoaoDario632">
+         <a href="https://github.com/JoaoDario632">
          <img src="https://avatars.githubusercontent.com/u/134674876?v=4" style="border-radius: 50%" width="100px;" alt="ferreira"/>
          <br />
          <sub><b>João Dário 💻👑</b></sub>
+       </a>
+     </td>
+     <td align="center">
+        <a href="https://github.com/FrrTiago">
+         <img src="https://avatars.githubusercontent.com/u/132114628?v=4" style="border-radius: 50%" width="100px;" alt="ferreira"/>
+         <br />
+         <sub><b>Tiago Ferreira 💻👑</b></sub>
        </a>
      </td>
   </tr>
